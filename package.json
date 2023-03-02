@@ -1,0 +1,24 @@
+{
+  "name": "S3FullStackSprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChambersJarod/S3FullStackSprint1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChambersJarod/S3FullStackSprint1/issues"
+  },
+  "dependencies": {
+    "crc": "^4.3.2",
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  }
+}
